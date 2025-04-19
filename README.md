@@ -9,3 +9,6 @@ A WiFi scanning application inspired by inSSIDer, built with Python and PyQt.
 ## Usage
 - Click "Scan" to detect nearby WiFi networks.
 - View network details in the table and channel usage in the graphs.
+
+## Screenshot
+![pySSIDer UI](pyssider-ui.png)
