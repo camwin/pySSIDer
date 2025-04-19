@@ -18,7 +18,7 @@ class NumericTableWidgetItem(QTableWidgetItem):
 class WiFiScoutWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("pySSIDer")
+        self.setWindowTitle("pySSIDer v.01")
         self.setGeometry(100, 100, 1100, 600)  # Increased width for Vendor column
 
         # Theme state
